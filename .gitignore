@@ -1,0 +1,13 @@
+# Arquivos e diretórios específicos do Django
+/api/__pycache__/
+/api/db.sqlite3
+/api/media/
+/api/static/
+/api/myenv/
+
+# Arquivos e diretórios específicos do Ionic
+/Mobile/node_modules/
+/Mobile/www/
+/Mobile/platforms/
+/Mobile/plugins/
+/Mobile/*.log
